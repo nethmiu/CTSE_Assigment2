@@ -1,0 +1,7 @@
+Here is a professional academic abstract summarizing the lecture notes:
+
+Title: Microservices Architecture: A Distributed Design Approach for Scalable Software Development
+
+Abstract:
+
+This paper presents microservices architecture as a design philosophy for building a single application as a collection of small, independently deployable services. Each service operates in its own process, communicating through lightweight mechanisms such as HTTP resource APIs. This approach enables the development of business-capability-focused services that can be deployed and managed autonomously by automated machinery. The absence of centralized management promotes flexibility, scalability, and maintainability, allowing developers to leverage different programming languages and data storage technologies. By breaking down a complex application into smaller, manageable components, microservices architecture facilitates collaboration, innovation, and rapid adaptation in modern software development environments.

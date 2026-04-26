@@ -1,0 +1,59 @@
+2026-04-26 11:13:49,334 - INFO - AGENT 1: Summarizer task execution started.
+2026-04-26 11:13:57,667 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:14:11,307 - INFO - AGENT 1: Summarizer task execution finished.
+2026-04-26 11:14:11,308 - INFO - AGENT 2: Question Generator task execution started.
+2026-04-26 11:14:12,121 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:14:27,809 - INFO - AGENT 2: Question Generator task execution finished.
+2026-04-26 11:14:27,809 - INFO - AGENT 3: Performance Evaluator task execution started.
+2026-04-26 11:14:28,592 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:14:39,787 - INFO - AGENT 3: Performance Evaluator task execution finished.
+2026-04-26 11:14:39,788 - INFO - AGENT 4: Study Planner task execution started.
+2026-04-26 11:14:40,567 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:15:16,531 - INFO - AGENT 4: Study Planner task execution finished.
+2026-04-26 11:16:14,436 - INFO - === EDUCATIONAL MULTI-AGENT SYSTEM STARTED ===
+2026-04-26 11:16:14,446 - INFO - File Reader Tool: Successfully read notes.txt
+2026-04-26 11:16:14,451 - INFO - AGENT 1: Summarizer task execution started.
+2026-04-26 11:16:15,561 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:16:26,687 - INFO - AGENT 1: Summarizer task execution finished.
+2026-04-26 11:16:26,688 - INFO - AGENT 2: Question Generator task execution started.
+2026-04-26 11:16:27,711 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:16:47,056 - INFO - AGENT 2: Question Generator task execution finished.
+2026-04-26 11:16:47,057 - INFO - AGENT 3: Performance Evaluator task execution started.
+2026-04-26 11:16:48,232 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:17:09,871 - INFO - AGENT 3: Performance Evaluator task execution finished.
+2026-04-26 11:17:09,872 - INFO - AGENT 4: Study Planner task execution started.
+2026-04-26 11:17:11,108 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:18:03,413 - INFO - AGENT 4: Study Planner task execution finished.
+2026-04-26 11:18:03,415 - INFO - Quiz Exporter Tool: Successfully exported quiz.json
+2026-04-26 11:18:03,416 - INFO - Planner Formatter Tool: Successfully saved study_plan.txt
+2026-04-26 11:18:03,416 - INFO - === EDUCATIONAL MULTI-AGENT SYSTEM FINISHED SUCCESSFULLY ===
+2026-04-26 11:23:13,721 - INFO - AGENT 1: Summarizer task execution started.
+2026-04-26 11:23:20,125 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:23:28,850 - INFO - AGENT 1: Summarizer task execution finished.
+2026-04-26 11:23:28,851 - INFO - AGENT 2: Question Generator task execution started.
+2026-04-26 11:23:29,641 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:23:43,648 - INFO - AGENT 2: Question Generator task execution finished.
+2026-04-26 11:23:43,648 - INFO - AGENT 3: Performance Evaluator task execution started.
+2026-04-26 11:23:44,416 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:24:06,001 - INFO - AGENT 3: Performance Evaluator task execution finished.
+2026-04-26 11:24:06,001 - INFO - AGENT 4: Study Planner task execution started.
+2026-04-26 11:24:06,805 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:25:13,520 - INFO - AGENT 4: Study Planner task execution finished.
+2026-04-26 11:44:22,953 - INFO - === EDUCATIONAL MULTI-AGENT SYSTEM STARTED ===
+2026-04-26 11:44:22,963 - INFO - File Reader Tool: Successfully read notes.txt
+2026-04-26 11:44:22,968 - INFO - AGENT 1: Summarizer task execution started.
+2026-04-26 11:44:30,307 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:44:40,334 - INFO - AGENT 1: Summarizer task execution finished.
+2026-04-26 11:44:40,335 - INFO - AGENT 2: Question Generator task execution started.
+2026-04-26 11:44:41,231 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:44:58,623 - INFO - AGENT 2: Question Generator task execution finished.
+2026-04-26 11:44:58,623 - INFO - AGENT 3: Performance Evaluator task execution started.
+2026-04-26 11:44:59,604 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:45:21,175 - INFO - AGENT 3: Performance Evaluator task execution finished.
+2026-04-26 11:45:21,175 - INFO - AGENT 4: Study Planner task execution started.
+2026-04-26 11:45:22,192 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-26 11:46:28,398 - INFO - AGENT 4: Study Planner task execution finished.
+2026-04-26 11:46:28,399 - INFO - Summary Saver Tool: Successfully saved summary to summary.txt
+2026-04-26 11:46:28,400 - INFO - Quiz Exporter Tool: Successfully exported quiz.json
+2026-04-26 11:46:28,400 - INFO - Planner Formatter Tool: Successfully saved study_plan.txt
+2026-04-26 11:46:28,401 - INFO - === EDUCATIONAL MULTI-AGENT SYSTEM FINISHED SUCCESSFULLY ===
